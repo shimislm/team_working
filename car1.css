@@ -1,0 +1,26 @@
+header{
+    position: sticky;
+}
+
+body{
+    background: rgba(0, 0, 0, 0.838);
+}
+
+center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.strip1{
+    min-height: 100px;
+    color: white;
+}
+
+.strip1 p{
+    color: white;
+    max-width: 700px;
+
+    
+}
