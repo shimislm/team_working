@@ -1,4 +1,16 @@
+.single-search {
+    margin-bottom: auto;
+    margin-top: auto;
+    height: inherit;
+    background-color: white;
+    border-radius: 10px;
+    padding: 4px;
+  }
 
+  .search-area{
+    display: flex;
+    justify-content: center;
+  }
 /* button start */
 .hbtn {
     cursor: pointer;
